@@ -1,0 +1,46 @@
+{
+    "1": {
+        "name": "Antyradio",
+        "streamurl": "https://n-22-12.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5?t=1611141164125"
+    },
+    "2": {
+        "name": "Radio Party",
+        "streamurl": "https://s2.radioparty.pl:8015/stream?nocache=6784"
+    },
+    "3": {
+        "name": "Radio Maryja",
+        "streamurl": "https://radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1"
+    },
+    "4": {
+        "name": "Radio WAWA",
+        "streamurl": "https://ext03.ic.smcdn.pl/t050-1.aac"
+    },
+    "5": {
+        "name": "Radio ESKA",
+        "streamurl": "https://ext03.ic.smcdn.pl/2380-1.mp3"
+    },
+    "6": {
+        "name": "Rock Radio",
+        "streamurl": "https://pl-play.adtonos.com/rock-radio?cache=1611675918"
+    },
+    "7": {
+        "name": "RMF FM",
+        "streamurl": "https://rs6-krk2.rmfstream.pl/RMFFM48"
+    },
+    "8": {
+        "name": "RMF MAXXX",
+        "streamurl": "https://rs7-krk2-cyfronet.rmfstream.pl/RMFMAXXX48"
+    },
+    "9": {
+        "name": "Radio Zet",
+        "streamurl": "https://n-16-10.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5?t=1611679423846"
+    },
+    "10": {
+        "name": "Radio Andrychów",
+        "streamurl": "http://s1.slotex.pl:7424/stream"
+    },
+    "11": {
+        "name": "Radio Złote Przeboje",
+        "streamurl": "https://pl2-play.adtonos.com/zote-przeboje"
+    }
+}

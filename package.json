@@ -1,0 +1,22 @@
+{
+  "name": "radio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "canvacord": "^5.1.0",
+    "cron": "^1.8.2",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "foreach-timeout": "^3.0.1",
+    "fs": "0.0.1-security",
+    "opusscript": "0.0.7",
+    "pm2": "^4.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
